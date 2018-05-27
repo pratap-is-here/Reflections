@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 220C-23D0
+
+ Directory of E:\work\GIT udacity\version-control\reflections
+
+05/25/2018  07:13 PM    <DIR>          .
+05/25/2018  07:13 PM    <DIR>          ..
+05/25/2018  07:13 PM                 0 lesson_1_reflections.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  203,892,899,840 bytes free
